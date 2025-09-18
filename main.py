@@ -1,0 +1,2 @@
+import tip_calculator
+tip_calculator.calculate_tip
